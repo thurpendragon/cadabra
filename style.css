@@ -16,6 +16,12 @@
         justify-content: space-around;
         align-items: center;
     }
+
+    nav li{
+display: inline;
+padding: 20px;
+
+    }
     
     #banner-topo {
     width: 100%;
