@@ -32,6 +32,11 @@ padding: 20px;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
     }
+
+    nav a:hover {
+        color: crimson;
+        text-decoration: underline;
+    }
     
     #banner-topo {
     width: 100%;
