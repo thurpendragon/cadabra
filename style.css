@@ -26,6 +26,7 @@ padding: 20px;
     nav a {
         text-transform: uppercase;
         color: azure;
+        font-size: 30px;
     }
     
     #banner-topo {
